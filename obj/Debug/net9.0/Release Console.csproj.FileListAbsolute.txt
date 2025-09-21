@@ -1,0 +1,96 @@
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/appsettings.Development.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/appsettings.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.staticwebassets.runtime.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.staticwebassets.endpoints.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.deps.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.runtimeconfig.json
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.dll
+/Users/itxmsh/Coding/Release Console/bin/Debug/net9.0/Release Console.pdb
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/rpswa.dswa.cache.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.AssemblyInfoInputs.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.AssemblyInfo.cs
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.csproj.CoreCompileInputs.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.MvcApplicationPartsAssemblyInfo.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.RazorAssemblyInfo.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.RazorAssemblyInfo.cs
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/scopedcss/bundle/Release Console.styles.css
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/scopedcss/projectbundle/Release Console.bundle.scp.css
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/dxaz5m6i1v-b9sayid5wm.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/3bxpvqg00c-61n19gt1b8.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/t76pxvlniz-xtxxf3hu2r.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/jxwzydg3tf-bqjiyaj88i.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/6bksbls9zv-c2jlpeoesf.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/bxtnlg70ha-erw9l3u2r3.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/w5r96vi9cm-aexeepp0ev.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/fke5ur6kik-d7shbmvgxk.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/15630me7yi-ausgxo2sd3.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xlipi8fckn-k8d9w2qqmf.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/bzbbyxtzrm-cosvhxvwiu.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/zspfebxya1-ub07r2b239.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/k23nsyuw5z-fvhpjtyr6v.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/14gwuowxh4-b7pk76d08c.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/f8spi9bcrg-fsbi9cje9m.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/1bv09yi6ww-rzd6atqjts.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xzs3fa1wg8-ee0r1s7dh0.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/qe36rh9an7-dxx9fxp4il.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/2hdf8oi986-jd9uben2k1.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/0ahss1b3wu-khv3u5hwcm.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/imxng0gzba-r4e9w2rdcm.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/7w488iaqa4-lcd1t2u6c8.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xyzrdg16ss-c2oey78nd0.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/t18lnfp9gn-tdbxkamptv.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/6x5ffvk84u-j5mq2jizvt.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/omd0pyzqrn-06098lyss8.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/0nmdxyk7mg-nvvlpmu67g.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/8z35bwsota-s35ty4nyc5.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/bi6jntnw2g-pj5nd1wqec.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/qwvn7436id-46ein0sx1k.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/9ah9exoo53-v0zj4ognzu.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/s2niyfs54k-37tfw0ft22.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/0k69xqhn1p-hrwsygsryq.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xtabj4denb-pk9g2wxc8p.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/8t53zyhfk9-ft3s53vfgj.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/muf20osu52-6cfz1n2cew.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/1r3agkxfhj-6pdc2jztkx.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/gwoxlhf6b4-493y06b0oq.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/axpxmcbtt7-iovd86k7lj.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/sy6shdai5w-vr1egmr9el.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/t5nmvxayyc-kbrnm935zg.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/rz5cqurisf-jj8uyg4cgr.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/907z450evq-y7v9cxd14o.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/2pzopcl5jd-notf2xhcfb.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/1csfn2rt8o-h1s4sie4z3.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/51oltuseq7-63fj8s7r0e.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/jxn0v14klv-0j3bgjxly4.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xfevh5gxci-47otxtyo56.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/wc6qjzt036-4v8eqarkd7.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/y5eyaewygm-356vix0kms.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/gv4xtxpkip-83jwlth58m.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/g3db783tkd-mrlpezrjn3.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/6eubwlngux-lzl9nlhx6b.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/ct9gb7efl4-ag7o75518u.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/xopk24i2md-x0q3zqp4vz.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/ohdfdzd9nt-0i3buxo5is.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/456ziknv6z-o1o13a6vjx.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/6dj85feo5s-ttgo8qnofa.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/q68qah0r0o-2z0ns9nrw6.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/h7hhwd64i2-muycvpuwrr.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/svr4ly9iug-87fc7y1x7t.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/k6a81vk9rq-mlv21k5csn.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/bxw74rlmim-9ixg5o3sse.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/compressed/velbxnasjx-9ixg5o3sse.gz
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/staticwebassets.build.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/staticwebassets.build.json.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/staticwebassets.development.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.dll
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/refint/Release Console.dll
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.pdb
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/Release Console.genruntimeconfig.cache
+/Users/itxmsh/Coding/Release Console/obj/Debug/net9.0/ref/Release Console.dll
